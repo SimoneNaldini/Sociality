@@ -1,0 +1,3 @@
+ # Sociality
+ 
+ Please, don't look at this project, it's only a test and i'm think it's not end well...
